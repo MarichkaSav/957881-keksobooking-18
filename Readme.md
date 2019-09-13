@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Мария Савчук](https://up.htmlacademy.ru/javascript/18/user/957881).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Сколяров].
 
 ---
 
